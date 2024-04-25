@@ -17,6 +17,7 @@ public class JavaApplication3 {
         // TODO code application logic here
         System.out.print("Hola, que tal, esoty modificando");
         
+        int i=0;
     }
     
 }
